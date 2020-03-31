@@ -1,0 +1,3 @@
+Today i got to know about forking but it would be better if we have to contribute in the original repositry of codedown .
+
+I learned how to send email with django implemented it in my project I am working on in Django https://github.com/KotwalNikhil/scholarship-portal
