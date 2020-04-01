@@ -1,0 +1,6 @@
+Using django forms is easy as django provides easy implementation of conversion from models to their forms but their edditing is difficult
+After studying from  various resources like youtube ,stackoverflow i got to know to crispy forms ,so i studied about crispy forms 
+Since i wanted to do more styling to that forms i have to go through the Django documentation . 
+I studied about Styling django forms using widgets and applied my css to it .
+
+
