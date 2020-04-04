@@ -1,0 +1,6 @@
+yesterday I implemented the django forms with styling in my project and commited 
+today i studied about MVT (Model View template) architecture from various resources like 
+https://www.javatpoint.com/django-mvt
+and Telusko youtube channel 
+
+I also did other things on my project like adding scrolling efect and pushed all the changes.
